@@ -2,3 +2,4 @@
 
 - Adding one line in branch A
 - Adding second line in branch A
+- Adding third line in branch A
