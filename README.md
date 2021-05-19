@@ -1,0 +1,1 @@
+# squash-vs-merge-test
